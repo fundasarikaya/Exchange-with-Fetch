@@ -1,4 +1,4 @@
-//ders88
+
 //Fetch API Kullanımı
 //ajax yerine kullanılabilece asenksron veri alıp verme
 //ajaxtan daha kolaydır
